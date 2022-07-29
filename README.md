@@ -27,3 +27,6 @@
 6. Disponibilizar detalhes de cada pedido
 7. E mais... 
 
+
+![rocketHelpSignIn](https://user-images.githubusercontent.com/75026003/181820663-8b5ff471-2d12-4bed-bbb5-325092413ce8.png)
+
