@@ -15,7 +15,6 @@
     <td> Firebase </td>
     <td> Fibase Auth </td>
     <td> Firebase Firestore</td>
-    <td> ReactJS</td>
   </tr>
 </table>
 
